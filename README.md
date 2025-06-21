@@ -3,9 +3,7 @@
 ScreenShots
 ![image alt](https://github.com/Harpreet2004/HD-MERN/blob/85372a7f744a15ca2eb3d571386f3ebc35f4e0f5/frontend/screenshots/Screenshot%202025-06-21%20115139.png)
 ![image alt](https://github.com/Harpreet2004/HD-MERN/blob/85372a7f744a15ca2eb3d571386f3ebc35f4e0f5/frontend/screenshots/Screenshot%202025-06-21%20115248.png)
-![image alt](https://github.com/Harpreet2004/HD-MERN/blob/85372a7f744a15ca2eb3d571386f3ebc35f4e0f5/frontend/screenshots/Screenshot%202025-06-21%20115301.png)
 ![image alt](https://github.com/Harpreet2004/HD-MERN/blob/85372a7f744a15ca2eb3d571386f3ebc35f4e0f5/frontend/screenshots/Screenshot%202025-06-21%20115318.png)
-![image alt](https://github.com/Harpreet2004/HD-MERN/blob/85372a7f744a15ca2eb3d571386f3ebc35f4e0f5/frontend/screenshots/Screenshot%202025-06-21%20115718.png)
 ![image alt](https://github.com/Harpreet2004/HD-MERN/blob/85372a7f744a15ca2eb3d571386f3ebc35f4e0f5/frontend/screenshots/Screenshot%202025-06-21%20115718.png)
 ![image alt](https://github.com/Harpreet2004/HD-MERN/blob/85372a7f744a15ca2eb3d571386f3ebc35f4e0f5/frontend/screenshots/Screenshot%202025-06-21%20115733.png)
 ![image alt](https://github.com/Harpreet2004/HD-MERN/blob/85372a7f744a15ca2eb3d571386f3ebc35f4e0f5/frontend/screenshots/Screenshot%202025-06-21%20131113.png)
