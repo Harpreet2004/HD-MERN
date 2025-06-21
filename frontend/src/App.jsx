@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Routes, Navigate } from "react-router";
 import Signup from './components/Signup';
 import Signin from './components/Signin';
 import Dashboard from './pages/Dashboard';
-import HomePage from './pages/Homepage';
+import HomePage from './pages/HomePage';
 
 const App = () => {
   const [loggedIn, setLoggedIn] = useState(!!localStorage.getItem("token"));
