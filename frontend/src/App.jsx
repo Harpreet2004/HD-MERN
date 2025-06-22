@@ -6,26 +6,14 @@ import Dashboard from './pages/Dashboard';
 import HomePage from './pages/HomePage';
 
 const App = () => {
-  const [loggedIn, setLoggedIn] = useState(!!localStorage.getItem("token"));
-
-  useEffect(() => {
-    const handleStorageChange = () => {
-      setLoggedIn(!!localStorage.getItem("token"));
-    };
-    window.addEventListener("storage", handleStorageChange);
-    return () => window.removeEventListener("storage", handleStorageChange);
-  }, []);
-
+ 
   return (
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<HomePage />} />
         <Route path='/signup' element={<Signup />} />
         <Route path='/signin' element={<Signin />} />
-        <Route 
-          path='/dashboard' 
-          element={loggedIn ? <Dashboard /> : <Navigate to="/signup" replace />} 
-        />
+        <Route path='/dashboard' element={<Dashboard/>}/>
       </Routes>
     </BrowserRouter>
   );
